@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanskar8176
+- 👋 Hi, I’m Sanskar Singh 
 - 👀 I’m interested in MERN Projects
 - 🌱 I’m currently learning React and Nodejs
 - 💞️ I’m looking to collaborate on Mern Projects
