@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/sanskar-singh-98ba16193/)
+[![MasterHead](https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif)](https://www.linkedin.com/in/sanskar-singh-98ba16193/)
 
 <h1 align="center">Hi 👋, I'm Sanskar Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align ="right alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskar8176&label=Profile%20views&color=0e75b6&style=flat" alt="sanskar8176" /> </p>
