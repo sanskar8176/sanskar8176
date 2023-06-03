@@ -10,6 +10,7 @@
 
 [![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar8176)](https://github.com/sanskar8176/sanskar8176)
 
+![counter](https://https://ens3bnonjg3ext.m.pipedream.net.m.pipedream.net)
 
 <!---
 sanskar8176/sanskar8176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
