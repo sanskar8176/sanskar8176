@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://sanskar8176.github.io/portfolio/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanskar8176.github.io/portfolio/)
 
 - 💬 Ask me about **HTML||JAVA||CSS||JAVASCRIPT||REACT||NODE||SPRING BOOT**
 
 - 📫 How to reach me **sanskarsingh8176@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1mKpnQxVcGtK12h1PufUoMTIQMAPGS-1y](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1mKpnQxVcGtK12h1PufUoMTIQMAPGS-1y)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
