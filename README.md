@@ -1,5 +1,10 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(https://www.linkedin.com/in/sanskar-singh-98ba16193/)
+
 <h1 align="center">Hi 👋, I'm Sanskar Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+
+<img align ="right alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskar8176&label=Profile%20views&color=0e75b6&style=flat" alt="sanskar8176" /> </p>
 
@@ -9,13 +14,13 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://sanskar8176.github.io/portfolio/](https://sanskar8176.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://sanskar8176.github.io/portfolio/](Portfolio)
 
 - 💬 Ask me about **HTML||JAVA||CSS||JAVASCRIPT||REACT||NODE||SPRING BOOT**
 
 - 📫 How to reach me **sanskarsingh8176@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1mKpnQxVcGtK12h1PufUoMTIQMAPGS-1y](https://drive.google.com/drive/folders/1mKpnQxVcGtK12h1PufUoMTIQMAPGS-1y)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1mKpnQxVcGtK12h1PufUoMTIQMAPGS-1y](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
